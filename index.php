@@ -9,7 +9,5 @@
 </head>
 <body <?php body_class(); ?>>
 	THIS is a 10kb theme
-
-	This is abug
 </body>
 </html>
